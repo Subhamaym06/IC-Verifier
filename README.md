@@ -78,8 +78,6 @@ This system eliminates manual IC testing by applying predefined logic patterns a
 7415, 7427, 744025, 744075, 7420, 7421,
 7425, 744072, 7482, 7473, 7474
 
----
-
 ### 🔹 16-Pin ICs
 7483, 74283, 7442, 74138, 74147, 74148,
 74151, 74153, 74157, 74158, 74184,
