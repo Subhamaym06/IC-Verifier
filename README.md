@@ -140,23 +140,23 @@ cd IC-Verifier
 
 ### 🔹 Open the Code in Arduino IDE
 
-Launch Arduino IDE
+1. Launch Arduino IDE
 
-Open the .ino file from the cloned project folder
+2. Open the .ino file from the cloned project folder
 
-Select the board:
+3. Select the board:
 
-Tools → Board → Arduino Mega 2560
+4. Tools → Board → Arduino Mega 2560
 
-Select the correct COM port from Tools → Port
+5. Select the correct COM port from Tools → Port
 
 ### 🔹 Upload the Code
 
-Connect Arduino Mega 2560 to your computer using a USB cable
+1. Connect Arduino Mega 2560 to your computer using a USB cable
 
-Click the Upload button
+2. Click the Upload button
 
-Wait for the message “Done uploading”
+3. Wait for the message “Done uploading”
 
 🎉 Your Digital IC Verifier is now ready to use.
 
