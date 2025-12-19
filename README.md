@@ -129,13 +129,13 @@ Follow the steps below to clone the repository and upload the code to your Ardui
 Open a terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Subhamaym06/IC-Verifier.git
 ```
 
 ### 🔹 Navigate to the Project Directory
 
 ```bash
-cd your-repo-name
+cd IC-Verifier
 ```
 
 ### 🔹 Open the Code in Arduino IDE
