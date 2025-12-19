@@ -4,7 +4,7 @@
 
 #define delay_long 5000
 #define delay_short 1500
-#define delay_scroll 400
+#define delay_scroll 500
 
 int max_pin = 16;
 int start_pin = 30;
