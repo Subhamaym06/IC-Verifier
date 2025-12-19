@@ -47,7 +47,7 @@ This system eliminates manual IC testing by applying predefined logic patterns a
 |----------------|------------------|
 | 1 – 16         | 31 – 46          |
 
-> Pin 31 connects to Pin 1 of the ZIF socket, Pin 32 to Pin 2, and so on up to Pin 46 → Pin 16.
+> Pin 1 of ZIF socket connects to Pin 31 of the Arduino, Pin 2 to Pin 32, and so on up to Pin 16 → Pin 46.
 
 ---
 
@@ -56,7 +56,7 @@ This system eliminates manual IC testing by applying predefined logic patterns a
 |----------------|------------------|
 | 1 – 8         | 2 - 9         |
 
-> Pin 2 of Arduino connects to Pin 1 of the Keypad, Pin 3 to Pin 2, and so on up to Pin 9 → Pin 8.
+> Pin 1 of Keypad connects to Pin 2 of the Arduino , Pin 2 to Pin 3, and so on up to Pin 8 → Pin 9.
 
 ---
 
